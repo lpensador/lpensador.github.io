@@ -1,0 +1,9 @@
+Pensador - Rodin:
+https://www.google.es/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=0ahUKEwiq6Oju8vbRAhXQFsAKHdkbAikQjRwIBw&url=https%3A%2F%2Fes.wikipedia.org%2Fwiki%2FArchivo%3ARodin%2C_El_Pensador-2.JPG&bvm=bv.146094739,d.ZGg&psig=AFQjCNHKBmrHKwquNOjkZ_Cu1QxNBlJFsA&ust=1486313327822401
+
+Color:
+#9900cc -> Purple
+#ff8000 -> Orange
+
+Tipogràfia:
+<link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet"> 
